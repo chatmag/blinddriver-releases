@@ -2,7 +2,7 @@
 
 **BlindDriver** — навігатор для Android для водіїв, які їздять там, де GPS глушать або підміняють. Коли супутникова позиція пропадає чи «стрибає», застосунок **не завмирає і не веде вас у поле**, а продовжує вести по маршруту за розрахунком: датчики телефона, останній надійний GPS і позиції за мережею. Він чесно показує, наскільки йому можна довіряти, і дає швидко підправити позицію одним дотиком.
 
-[**Завантажити останню версію (APK)**](https://github.com/chatmag/blinddriver-releases/releases/latest) · [Довідка по всіх значках](https://github.com/chatmag/blinddriver-releases/releases/latest/download/BlindDriver-Help.html) · [Група в Telegram](https://t.me/BlindDriver)
+[**Завантажити останню версію (APK)**](https://github.com/chatmag/blinddriver-releases/releases/latest) · [Довідка по всіх значках](https://chatmag.github.io/blinddriver-releases/help.html) · [Група в Telegram](https://t.me/BlindDriver)
 
 > Ранній доступ (версії 0.2.x). Застосунок активно розвивається, інтерфейс українською. Тут лежать лише готові збірки; вихідний код закритий.
 
@@ -160,7 +160,7 @@
 
 ## Довідка та підтримка
 
-- Опис усіх значків і функцій: [BlindDriver-Help.html](https://github.com/chatmag/blinddriver-releases/releases/latest/download/BlindDriver-Help.html) (та сама довідка є в застосунку: «Налаштування → Довідка»).
+- Опис усіх значків і функцій: [BlindDriver-Help.html](https://chatmag.github.io/blinddriver-releases/help.html) (та сама довідка є в застосунку: «Налаштування → Довідка»).
 - **Група в Telegram для обговорення:** https://t.me/BlindDriver: питання, ідеї, повідомлення про помилки, обмін досвідом.
 - Підтримка та зворотний зв'язок: Telegram-бот **@Blind_Driver_bot**.
 
