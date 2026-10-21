@@ -2,7 +2,7 @@
 
 **BlindDriver** — навігатор для Android (iPhone: тестова версія в TestFlight) для водіїв, які їздять там, де GPS глушать або підміняють. Коли супутникова позиція пропадає чи «стрибає», застосунок **не завмирає і не веде вас у поле**, а продовжує вести по маршруту за розрахунком: датчики телефона, останній надійний GPS і позиції за мережею. Він чесно показує, наскільки йому можна довіряти, і дає швидко підправити позицію одним дотиком.
 
-[**Завантажити останню версію (APK)**](https://github.com/chatmag/blinddriver-releases/releases/latest) · [**iPhone: тестова версія в TestFlight**](https://testflight.apple.com/join/j1BWZMNw) · [Довідка по всіх значках](https://chatmag.github.io/blinddriver-releases/help.html) · [Група в Telegram](https://t.me/BlindDriver)
+[**Завантажити останню версію (APK)**](https://github.com/chatmag/blinddriver-releases/releases/latest) · [**iPhone: тестова версія в TestFlight**](https://testflight.apple.com/join/j1BWZMNw) · [**Відео: повний посібник з установки й налаштувань**](https://youtu.be/IReSMJ1Fozk) · [Довідка по всіх значках](https://chatmag.github.io/blinddriver-releases/help.html) · [Група в Telegram](https://t.me/BlindDriver)
 
 > Застосунок активно розвивається, інтерфейс українською й англійською. Тут лежать лише готові збірки; вихідний код закритий.
 
